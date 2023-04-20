@@ -1,0 +1,28 @@
+*{
+  font-family:
+
+}
+.container{
+    max-width: 900px;
+    margin: auto;
+
+}
+
+.header{
+    text-align: center;
+    border: 1px solid gray;
+    border border-radius: 15px;
+    /* padding: 20px 0px; */
+
+}
+
+.main :first-child{
+    text-align: center; 
+}
+.main h3 {
+    background-color: #e8ece0;
+}
+.main2{
+    display: flex;
+}
+

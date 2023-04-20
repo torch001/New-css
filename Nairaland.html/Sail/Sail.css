@@ -1,0 +1,24 @@
+.Hello{
+    color: blue;
+}
+#World{
+    color: green;
+}
+.Would{
+    color: darkgreen;
+}
+.welcomeWorld{
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    font-weight: 800;
+    text-align: center;
+}
+
+.welcomeWorld h2{
+    background-color: brown;
+}
+
+.welcomeWorld p{
+    background-color: green;
+}
